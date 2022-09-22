@@ -1,0 +1,41 @@
+p{font-family: georgia;
+}
+
+body{background-image: url("https://http2.mlstatic.com/D_NQ_NP_989333-MLB31204666455_062019-O.jpg");}
+
+.tópico{ text-align: center;
+    font-style: italic;
+font-size: 30px;}
+
+.texto{ font-size: 20px}
+
+form { font-family: georgia;
+
+  padding: 50px;
+  
+} 
+form div + div {
+    margin-top: 50px;
+}
+
+label{ font-family:  georgia; 
+    font-size: 20px; 
+    font-style: italic;
+   
+    display:block;
+    width: 150px;
+    text-align:center
+}
+
+input{ width: 300px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;}
+
+ textarea { 
+    width: 400px;
+    height: 100px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+ }   
+
+ input,textarea{   border: 2px solid rgba(153, 153, 153, 0.705);}
