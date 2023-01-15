@@ -1,0 +1,70 @@
+{
+    "PRATOS":[
+
+        {"id":1,
+        "nome":"Alcatra", 
+        "Alcatra":"isca de alcatra, feijao, farofa, arroz branco e batata frita",
+        "preco": 52.90,}
+
+        {"id":2,
+        "nome":"Parmegiana",
+        "Alcatra":"Parmegiana, queijo mussarela, parmesao, acompanhada de arroz branco e batata frita",
+        "preco": 46,20,}
+
+        {"id":3,
+        "nome":"Estrogonofe de Frango", 
+        "Estrogonofe de Frango":"Arroz branco, batata e isca de frango",
+        "preco": 30,}
+
+         {"id":4,
+        "nome":"Risoto de Camarao", 
+        "Risoto de Camarao":"Camarao sem casca, molho sugo, tomate picado, ervilha, arroz branco e parmesao ralado",
+        "preco": 40.90,}
+
+    ]
+    
+    "BEBIDAS":[
+
+        {"id":1,
+        "nome": "Coca- Cola",
+        "preco": 5.5,}
+
+         {"id":2,
+        "nome": "Agua",
+        "preco": 2.5,}
+
+        
+         {"id":3,
+        "nome": "Guarana",
+        "preco": 4.5,}
+
+          {"id":4,
+        "nome": "Ice Tea",
+        "preco": 5,}
+
+   ]
+
+"SOBREMESA":[
+    
+    {"id":1,
+        "nome": "Tortinha de limao",
+        "preco": 6.5,}
+
+        {"id":2,
+        "nome": "Mouse de maracuja",
+        "preco": 5.5,}
+
+        {"id":3,
+        "nome": "Fatia Bombom",
+        "preco": 5.5,}
+
+         {"id":3,
+        "nome": "Pave",
+        "preco": 5.5,}
+
+
+
+
+]
+
+}
